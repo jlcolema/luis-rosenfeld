@@ -1,0 +1,5 @@
+.DS_Store
+*.sql
+conf
+logs
+wp-config*
